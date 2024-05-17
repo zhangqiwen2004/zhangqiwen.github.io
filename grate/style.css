@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.back {
+    height: 300px;
+}
+
+.back img {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+.table {
+    height: 40px;
+    border-bottom: 1px solid #edeef0;
+    background-color: #fcfcfc;
+    line-height: 40px;
+}
+
+.table a {
+    display: inline-block;
+    height: 40px;
+    width: 24%;
+    /* padding: 0 20px; */
+    font-size: 12px;
+    color: #4c4c4c;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* .table a {
+    color: #4c4c4c;
+    text-decoration: none;
+} */
+
+.table a:hover {
+    background-color: #eee;
+}
+
+.head {
+    height: 50px;
+}
+
+h1 {
+    font-weight: 400;
+    text-align: center;
+}
+
+.view .ppp {
+    height: 350px;
+    border: 1px solid #4c4c4c;
+    margin-top: 20px;
+}
+
+.img {
+    margin-top: 25px;
+}
+
+.ppp img {
+    float: left;
+    height: 300px;
+    width: 400px;
+
+}
+
+.ppp .anno {
+    float: left;
+    width: 500px;
+    height: 250px;
+    margin-top: 35px;
+    margin-left: 50px;
+    padding-left: 50px;
+    /* border-left: 1px solid black; */
+}

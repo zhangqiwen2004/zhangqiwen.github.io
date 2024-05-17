@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.back {
+    height: 300px;
+}
+
+.back img {
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+
+.table {
+    margin: 0 auto;
+    height: 40px;
+    border-bottom: 1px solid #edeef0;
+    background-color: #fcfcfc;
+    line-height: 40px;
+}
+
+.table a {
+    display: inline-block;
+    height: 40px;
+    width: 24%;
+    /* padding: 0 20px; */
+    font-size: 12px;
+    color: #4c4c4c;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* .table a {
+    color: #4c4c4c;
+    text-decoration: none;
+} */
+
+.table a:hover {
+    background-color: #eee;
+}
+
+.person .head img {
+    float: left;
+    margin-top: 20px;
+    margin-right: 200px;
+    /* display: inline-block; */
+    width: 320px;
+    height: 320px;
+
+}
+
+.person .mange {
+    /* display: inline-block; */
+    float: left;
+
+
+}
+
+.person ul {
+    float: left;
+    margin-right: 200px;
+    margin-top: 70px;
+    list-style-type: none;
+}
+
+.person li {
+    margin-bottom: 30px;
+}
+
+.person .jeis {
+    float: left;
+    width: 400px;
+    height: 320px;
+    margin-top: 70px;
+}
